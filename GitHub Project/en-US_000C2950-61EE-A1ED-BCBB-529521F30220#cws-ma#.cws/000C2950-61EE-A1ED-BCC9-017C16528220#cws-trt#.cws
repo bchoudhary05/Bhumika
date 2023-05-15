@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C2950-61EE-A1ED-BCC9-017C1652C220">
+	<DocumentID>000C2950-61EE-A1ED-BCC9-017C16528220</DocumentID>
+	<Name>000C2950-61EE-A1ED-BCC9-017C16528220</Name>
+	<Description>Skills</Description>
+	<CreatedBy>mchoudhary</CreatedBy>
+	<CreationDate>2023-05-15T13:29:23.666</CreationDate>
+	<Notes/>
+	<Text>Skills</Text>
+	<Language>
+		<uri
+			id="000C2950-61EE-A1ED-BCBB-529521F28220"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C2950-61EE-A1ED-BCC9-017C16520220"
+		/>
+	</TextIdentifier>
+</TranslatedText>
