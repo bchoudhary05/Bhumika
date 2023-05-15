@@ -1,0 +1,103 @@
+
+<Project
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.documenttypes.project.Project"
+	typeVersion="0019B980-5ADC-71DF-9C5A-1C9DE0779704"
+	RuntimeDocumentID="000C2950-61EE-A1ED-BCBB-529521F14220">
+	<DocumentID>000C2950-61EE-A1ED-BCBB-529521F10220</DocumentID>
+	<Name>GitHub Project</Name>
+	<Description>GitHub Project</Description>
+	<CreatedBy>mchoudhary</CreatedBy>
+	<CreationDate>2023-05-15T06:54:18.419</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<Configurations/>
+	<ISVPackageInfo>
+		<ISVPackageInfo
+			type="com.cordys.cws.packaging.isvp.ISVPackageInfo"
+			typeVersion="00215A62-2E6A-11E2-EEB7-903C43CFF084"
+			RuntimeDocumentID="000C2950-61EE-A1ED-BCBB-529521F44220">
+			<DocumentID>000C2950-61EE-A1ED-BCBB-529521F40220</DocumentID>
+			<Name>My Company GitHub Project</Name>
+			<Description>My Company GitHub Project</Description>
+			<CreatedBy>mchoudhary</CreatedBy>
+			<CreationDate>2023-05-15T06:54:18.42</CreationDate>
+			<Notes/>
+			<BuildNumber>0</BuildNumber>
+			<GenerateModelPackage>false</GenerateModelPackage>
+			<ISVPackageFileName>My Company GitHub Project 1.0.0</ISVPackageFileName>
+			<ISVPackageOwner>My Company</ISVPackageOwner>
+			<PackageForRuntime>true</PackageForRuntime>
+			<PostISVLoaderInformation/>
+			<Product>GitHub Project</Product>
+			<SupportedDeploymentSpaces
+				xmlns:cws="http://schemas.cordys.com/cws/1.0"
+				cws:type="collection:string">
+				<cws:item>SHARED</cws:item>
+			</SupportedDeploymentSpaces>
+			<Version>1.0</Version>
+			<LicenseAgreement/>
+			<ThirdPartyAgreement/>
+		</ISVPackageInfo>
+	</ISVPackageInfo>
+	<RuntimeQualifiedName/>
+	<SourceFolder>
+		<uri
+			id="000C2950-61EE-A1ED-BCBB-529521F38220"
+			path="GitHub Project"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+	<_AddOns>
+		<TranslationInformation
+			type="com.cordys.translation.TranslationInformation"
+			typeVersion="b81bb9b4-8af7-470f-a5fa-864be49acb9d"
+			RuntimeDocumentID="000C2950-61EE-A1ED-BCBB-529521F1C220">
+			<DocumentID>000C2950-61EE-A1ED-BCBB-529521F18220</DocumentID>
+			<Name>TranslationInformation</Name>
+			<Description/>
+			<CreatedBy>mchoudhary</CreatedBy>
+			<CreationDate>2023-05-15T06:54:18.418</CreationDate>
+			<Notes/>
+			<LanguagePacks>
+				<LanguagePack
+					type="com.cordys.translation.LanguagePack"
+					typeVersion="11456b87-q895-32f2-584q-58f3tlm2so65"
+					RuntimeDocumentID="000C2950-61EE-A1ED-BCBB-529521F2C220">
+					<DocumentID>000C2950-61EE-A1ED-BCBB-529521F28220</DocumentID>
+					<Name>en-US</Name>
+					<Description/>
+					<CreatedBy>mchoudhary</CreatedBy>
+					<CreationDate>2023-05-15T06:54:18.418</CreationDate>
+					<Notes/>
+					<Language>English - United States</Language>
+					<Texts>
+						<uri
+							id="000C2950-61EE-A1ED-BCBB-529521F30220"
+							path="GitHub Project/en-US_000C2950-61EE-A1ED-BCBB-529521F30220"
+							type="com.cordys.cws.associations.MergeableAssociation"
+						/>
+					</Texts>
+					<TranslationInformation>
+						<uri
+							id="000C2950-61EE-A1ED-BCBB-529521F18220"
+						/>
+					</TranslationInformation>
+				</LanguagePack>
+			</LanguagePacks>
+			<ProjectLanguage>
+				<uri
+					id="000C2950-61EE-A1ED-BCBB-529521F28220"
+				/>
+			</ProjectLanguage>
+			<Texts>
+				<uri
+					id="000C2950-61EE-A1ED-BCBB-529521F20220"
+					path="GitHub Project/TranslationInformation_000C2950-61EE-A1ED-BCBB-529521F20220"
+					type="com.cordys.cws.associations.MergeableAssociation"
+				/>
+			</Texts>
+			<TranslationInformation/>
+		</TranslationInformation>
+	</_AddOns>
+</Project>
