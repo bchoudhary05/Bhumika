@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C2950-61EE-A1ED-BCE7-E96256BC4220">
+	<DocumentID>000C2950-61EE-A1ED-BCE7-E96256BC0220</DocumentID>
+	<Name>000C2950-61EE-A1ED-BCE7-E96256BC0220</Name>
+	<Description>Git Home Page</Description>
+	<CreatedBy>mchoudhary</CreatedBy>
+	<CreationDate>2023-05-16T04:41:00.186</CreationDate>
+	<Notes/>
+	<Text>Git Home Page</Text>
+	<Language>
+		<uri
+			id="000C2950-61EE-A1ED-BCBB-529521F28220"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C2950-61EE-A1ED-BCE7-E96256BB8220"
+		/>
+	</TextIdentifier>
+</TranslatedText>
