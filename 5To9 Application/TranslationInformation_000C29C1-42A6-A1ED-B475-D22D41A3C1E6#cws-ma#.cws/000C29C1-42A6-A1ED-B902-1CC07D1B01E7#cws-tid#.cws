@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29C1-42A6-A1ED-B902-1CC07D1B41E7">
+	<DocumentID>000C29C1-42A6-A1ED-B902-1CC07D1B01E7</DocumentID>
+	<Name>000C29C1-42A6-A1ED-B902-1CC07D1B01E7</Name>
+	<Description>Number Of Applications</Description>
+	<CreatedBy>bchoudhary</CreatedBy>
+	<CreationDate>2023-04-26T08:37:30.431</CreationDate>
+	<Notes/>
+	<DefaultText>Number Of Applications</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C29C1-42A6-A1ED-B475-D22D41A441E6"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29C1-42A6-A1ED-B902-1CC07D1B81E7"
+		/>
+	</Translations>
+</TextIdentifier>

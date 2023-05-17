@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29C1-42A6-A1ED-B5D8-36D7C29E01E6">
+	<DocumentID>000C29C1-42A6-A1ED-B5D8-36D7C29DC1E6</DocumentID>
+	<Name>000C29C1-42A6-A1ED-B5D8-36D7C29DC1E6</Name>
+	<Description>All Recruiters</Description>
+	<CreatedBy>hbhuva</CreatedBy>
+	<CreationDate>2023-04-10T05:33:44.013</CreationDate>
+	<Notes/>
+	<Text>All Recruiters</Text>
+	<Language>
+		<uri
+			id="000C29C1-42A6-A1ED-B475-D22D41A341E6"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29C1-42A6-A1ED-B5D8-36D7C29D41E6"
+		/>
+	</TextIdentifier>
+</TranslatedText>

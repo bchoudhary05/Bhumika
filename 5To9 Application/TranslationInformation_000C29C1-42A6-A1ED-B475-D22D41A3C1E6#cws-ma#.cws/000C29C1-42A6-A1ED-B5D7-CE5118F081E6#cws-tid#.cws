@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29C1-42A6-A1ED-B5D7-CE5118F0C1E6">
+	<DocumentID>000C29C1-42A6-A1ED-B5D7-CE5118F081E6</DocumentID>
+	<Name>000C29C1-42A6-A1ED-B5D7-CE5118F081E6</Name>
+	<Description>Admin</Description>
+	<CreatedBy>hbhuva</CreatedBy>
+	<CreationDate>2023-04-10T05:29:31.925</CreationDate>
+	<Notes/>
+	<DefaultText>Admin</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C29C1-42A6-A1ED-B475-D22D41A441E6"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29C1-42A6-A1ED-B5D7-CE5118F101E6"
+		/>
+	</Translations>
+</TextIdentifier>

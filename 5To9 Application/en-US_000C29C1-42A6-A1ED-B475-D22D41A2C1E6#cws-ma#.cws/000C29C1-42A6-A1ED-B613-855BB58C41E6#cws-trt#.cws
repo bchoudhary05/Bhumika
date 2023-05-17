@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29C1-42A6-A1ED-B613-855BB58C81E6">
+	<DocumentID>000C29C1-42A6-A1ED-B613-855BB58C41E6</DocumentID>
+	<Name>000C29C1-42A6-A1ED-B613-855BB58C41E6</Name>
+	<Description>Untitled Business Process Model</Description>
+	<CreatedBy>bchoudhary</CreatedBy>
+	<CreationDate>2023-04-11T09:54:42.163</CreationDate>
+	<Notes/>
+	<Text>Untitled Business Process Model</Text>
+	<Language>
+		<uri
+			id="000C29C1-42A6-A1ED-B475-D22D41A341E6"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29C1-42A6-A1ED-B613-855BB58BC1E6"
+		/>
+	</TextIdentifier>
+</TranslatedText>

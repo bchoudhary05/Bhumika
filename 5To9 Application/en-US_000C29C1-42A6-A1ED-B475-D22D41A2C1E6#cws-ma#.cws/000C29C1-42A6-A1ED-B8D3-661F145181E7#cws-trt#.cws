@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29C1-42A6-A1ED-B8D3-661F1451C1E7">
+	<DocumentID>000C29C1-42A6-A1ED-B8D3-661F145181E7</DocumentID>
+	<Name>000C29C1-42A6-A1ED-B8D3-661F145181E7</Name>
+	<Description>SalaryDivision_ToOne_User</Description>
+	<CreatedBy>hbhuva</CreatedBy>
+	<CreationDate>2023-04-25T09:45:32.748</CreationDate>
+	<Notes/>
+	<Text>SalaryDivision_ToOne_User</Text>
+	<Language>
+		<uri
+			id="000C29C1-42A6-A1ED-B475-D22D41A341E6"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29C1-42A6-A1ED-B8D3-661F145101E7"
+		/>
+	</TextIdentifier>
+</TranslatedText>

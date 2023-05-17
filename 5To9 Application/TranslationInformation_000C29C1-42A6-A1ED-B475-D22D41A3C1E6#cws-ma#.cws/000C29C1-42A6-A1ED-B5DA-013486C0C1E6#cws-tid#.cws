@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29C1-42A6-A1ED-B5DA-013486C101E6">
+	<DocumentID>000C29C1-42A6-A1ED-B5DA-013486C0C1E6</DocumentID>
+	<Name>000C29C1-42A6-A1ED-B5DA-013486C0C1E6</Name>
+	<Description>Recruiter_ToOne_Location</Description>
+	<CreatedBy>bchoudhary</CreatedBy>
+	<CreationDate>2023-04-10T06:22:53.142</CreationDate>
+	<Notes/>
+	<DefaultText>Recruiter_ToOne_Location</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C29C1-42A6-A1ED-B475-D22D41A441E6"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29C1-42A6-A1ED-B5DA-013486C141E6"
+		/>
+	</Translations>
+</TextIdentifier>

@@ -1,0 +1,29 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="000C29C1-42A6-A1ED-B5D7-3BFFC0B081E6">
+	<DocumentID>000C29C1-42A6-A1ED-B5D7-3BFFC0B041E6</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>hbhuva</CreatedBy>
+	<CreationDate>2023-04-10T05:05:11.812</CreationDate>
+	<Notes/>
+	<CreateOperation/>
+	<DeleteOperation/>
+	<Entity>
+		<uri
+			id="000C29C1-42A6-A1ED-B5D7-3BFFC0C3C1E6"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original>
+		<uri
+			id="F8B156B4-FF8F-11E6-F61A-EEB0ED69B7E6"
+		/>
+	</Original>
+	<ReadOperation/>
+	<RelationshipOperations/>
+	<UpdateOperation/>
+</EntityWebServicesBuildingBlock>

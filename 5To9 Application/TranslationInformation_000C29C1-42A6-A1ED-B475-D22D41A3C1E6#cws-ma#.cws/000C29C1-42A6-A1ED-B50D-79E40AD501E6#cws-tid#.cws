@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29C1-42A6-A1ED-B50D-79E40AD541E6">
+	<DocumentID>000C29C1-42A6-A1ED-B50D-79E40AD501E6</DocumentID>
+	<Name>000C29C1-42A6-A1ED-B50D-79E40AD501E6</Name>
+	<Description>Requirments</Description>
+	<CreatedBy>bchoudhary</CreatedBy>
+	<CreationDate>2023-04-06T05:36:00.025</CreationDate>
+	<Notes/>
+	<DefaultText>Requirments</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C29C1-42A6-A1ED-B475-D22D41A441E6"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29C1-42A6-A1ED-B50D-79E40AD581E6"
+		/>
+	</Translations>
+</TextIdentifier>

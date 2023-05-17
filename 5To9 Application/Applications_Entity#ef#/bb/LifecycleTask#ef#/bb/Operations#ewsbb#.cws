@@ -1,0 +1,41 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="000C29C1-42A6-A1ED-B89D-4FF65E3DC1E7">
+	<DocumentID>000C29C1-42A6-A1ED-B89D-4FF65E3D81E7</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>hbhuva</CreatedBy>
+	<CreationDate>2023-04-24T07:59:03.742</CreationDate>
+	<Notes/>
+	<CreateOperation/>
+	<DeleteOperation/>
+	<Entity>
+		<uri
+			id="000C29C1-42A6-A1ED-B66F-429C312A81E6"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation/>
+	<RelationshipOperations/>
+	<UpdateOperation>
+		<EntityWebServiceUpdateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceUpdateOperation"
+			RuntimeDocumentID="000C29C1-42A6-A1ED-B8A2-B0B8AEFA81E7">
+			<DocumentID>000C29C1-42A6-A1ED-B8A2-B0B8AEFA41E7</DocumentID>
+			<Name>UpdateLifecycleTask</Name>
+			<Description>Update LifecycleTask</Description>
+			<CreatedBy>bchoudhary</CreatedBy>
+			<CreationDate>2023-04-24T10:30:27.725</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="000C29C1-42A6-A1ED-B66F-429C312A81E6"
+				/>
+			</Entity>
+		</EntityWebServiceUpdateOperation>
+	</UpdateOperation>
+</EntityWebServicesBuildingBlock>

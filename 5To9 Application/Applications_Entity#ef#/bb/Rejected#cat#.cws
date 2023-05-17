@@ -1,0 +1,19 @@
+
+<Category
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.Category"
+	RuntimeDocumentID="000C29C1-42A6-A1ED-B80F-49401E2EC1E6">
+	<DocumentID>000C29C1-42A6-A1ED-B80F-49401E2E81E6</DocumentID>
+	<Name>Rejected</Name>
+	<Description>Rejected</Description>
+	<CreatedBy>bchoudhary</CreatedBy>
+	<CreationDate>2023-04-21T12:14:36.021</CreationDate>
+	<Notes/>
+	<referenceCount>0</referenceCount>
+	<BuildingBlock>
+		<uri
+			id="000C29C1-42A6-A1ED-B47B-DCFFB37241E6"
+		/>
+	</BuildingBlock>
+	<Original/>
+</Category>

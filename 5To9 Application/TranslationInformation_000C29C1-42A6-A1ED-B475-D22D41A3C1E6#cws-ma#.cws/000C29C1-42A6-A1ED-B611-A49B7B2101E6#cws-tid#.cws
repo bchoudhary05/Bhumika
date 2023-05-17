@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29C1-42A6-A1ED-B611-A49B7B2141E6">
+	<DocumentID>000C29C1-42A6-A1ED-B611-A49B7B2101E6</DocumentID>
+	<Name>000C29C1-42A6-A1ED-B611-A49B7B2101E6</Name>
+	<Description>Applicant To Screening</Description>
+	<CreatedBy>bchoudhary</CreatedBy>
+	<CreationDate>2023-04-11T09:01:46.728</CreationDate>
+	<Notes/>
+	<DefaultText>Applicant To Screening</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C29C1-42A6-A1ED-B475-D22D41A441E6"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29C1-42A6-A1ED-B611-A49B7B2181E6"
+		/>
+	</Translations>
+</TextIdentifier>

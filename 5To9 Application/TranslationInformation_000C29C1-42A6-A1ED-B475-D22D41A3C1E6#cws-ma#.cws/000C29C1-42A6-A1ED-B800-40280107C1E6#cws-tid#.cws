@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="000C29C1-42A6-A1ED-B800-4028010801E6">
+	<DocumentID>000C29C1-42A6-A1ED-B800-40280107C1E6</DocumentID>
+	<Name>000C29C1-42A6-A1ED-B800-40280107C1E6</Name>
+	<Description>Validation On Submit BPM</Description>
+	<CreatedBy>bchoudhary</CreatedBy>
+	<CreationDate>2023-04-21T05:07:37.549</CreationDate>
+	<Notes/>
+	<DefaultText>Validation On Submit BPM</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="000C29C1-42A6-A1ED-B475-D22D41A441E6"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="000C29C1-42A6-A1ED-B800-4028010841E6"
+		/>
+	</Translations>
+</TextIdentifier>

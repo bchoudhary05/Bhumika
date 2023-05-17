@@ -1,0 +1,103 @@
+
+<Project
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.documenttypes.project.Project"
+	typeVersion="0019B980-5ADC-71DF-9C5A-1C9DE0779704"
+	RuntimeDocumentID="000C29C1-42A6-A1ED-B475-D22D41A601E6">
+	<DocumentID>000C29C1-42A6-A1ED-B475-D22D41A5C1E6</DocumentID>
+	<Name>5To9 Application</Name>
+	<Description>5To9 Application</Description>
+	<CreatedBy>bchoudhary</CreatedBy>
+	<CreationDate>2023-04-03T05:06:14.498</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<Configurations/>
+	<ISVPackageInfo>
+		<ISVPackageInfo
+			type="com.cordys.cws.packaging.isvp.ISVPackageInfo"
+			typeVersion="00215A62-2E6A-11E2-EEB7-903C43CFF084"
+			RuntimeDocumentID="000C29C1-42A6-A1ED-B475-D22D41A501E6">
+			<DocumentID>000C29C1-42A6-A1ED-B475-D22D41A4C1E6</DocumentID>
+			<Name>My Company 5To9 Application</Name>
+			<Description>My Company 5To9 Application</Description>
+			<CreatedBy>bchoudhary</CreatedBy>
+			<CreationDate>2023-04-03T05:06:14.498</CreationDate>
+			<Notes/>
+			<BuildNumber>0</BuildNumber>
+			<GenerateModelPackage>true</GenerateModelPackage>
+			<ISVPackageFileName>My Company 5To9 Application 1.0.0</ISVPackageFileName>
+			<ISVPackageOwner>My Company</ISVPackageOwner>
+			<PackageForRuntime>true</PackageForRuntime>
+			<PostISVLoaderInformation/>
+			<Product>5To9 Application</Product>
+			<SupportedDeploymentSpaces
+				xmlns:cws="http://schemas.cordys.com/cws/1.0"
+				cws:type="collection:string">
+				<cws:item>ORGANIZATION</cws:item>
+			</SupportedDeploymentSpaces>
+			<Version>1.0</Version>
+			<LicenseAgreement/>
+			<ThirdPartyAgreement/>
+		</ISVPackageInfo>
+	</ISVPackageInfo>
+	<RuntimeQualifiedName/>
+	<SourceFolder>
+		<uri
+			id="000C2950-61EE-A1ED-BD1D-012F67744220"
+			path="5To9 Application"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+	<_AddOns>
+		<TranslationInformation
+			type="com.cordys.translation.TranslationInformation"
+			typeVersion="b81bb9b4-8af7-470f-a5fa-864be49acb9d"
+			RuntimeDocumentID="000C29C1-42A6-A1ED-B475-D22D41A481E6">
+			<DocumentID>000C29C1-42A6-A1ED-B475-D22D41A441E6</DocumentID>
+			<Name>TranslationInformation</Name>
+			<Description>TranslationInformation</Description>
+			<CreatedBy>bchoudhary</CreatedBy>
+			<CreationDate>2023-04-03T05:06:14.498</CreationDate>
+			<Notes/>
+			<LanguagePacks>
+				<LanguagePack
+					type="com.cordys.translation.LanguagePack"
+					typeVersion="11456b87-q895-32f2-584q-58f3tlm2so65"
+					RuntimeDocumentID="000C29C1-42A6-A1ED-B475-D22D41A381E6">
+					<DocumentID>000C29C1-42A6-A1ED-B475-D22D41A341E6</DocumentID>
+					<Name>en-US</Name>
+					<Description>en-US</Description>
+					<CreatedBy>bchoudhary</CreatedBy>
+					<CreationDate>2023-04-03T05:06:14.498</CreationDate>
+					<Notes/>
+					<Language>English - United States</Language>
+					<Texts>
+						<uri
+							id="000C29C1-42A6-A1ED-B475-D22D41A2C1E6"
+							path="5To9 Application/en-US_000C29C1-42A6-A1ED-B475-D22D41A2C1E6"
+							type="com.cordys.cws.associations.MergeableAssociation"
+						/>
+					</Texts>
+					<TranslationInformation>
+						<uri
+							id="000C29C1-42A6-A1ED-B475-D22D41A441E6"
+						/>
+					</TranslationInformation>
+				</LanguagePack>
+			</LanguagePacks>
+			<ProjectLanguage>
+				<uri
+					id="000C29C1-42A6-A1ED-B475-D22D41A341E6"
+				/>
+			</ProjectLanguage>
+			<Texts>
+				<uri
+					id="000C29C1-42A6-A1ED-B475-D22D41A3C1E6"
+					path="5To9 Application/TranslationInformation_000C29C1-42A6-A1ED-B475-D22D41A3C1E6"
+					type="com.cordys.cws.associations.MergeableAssociation"
+				/>
+			</Texts>
+			<TranslationInformation/>
+		</TranslationInformation>
+	</_AddOns>
+</Project>

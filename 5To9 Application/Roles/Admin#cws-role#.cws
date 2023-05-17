@@ -1,0 +1,23 @@
+
+<RoleDesignTime
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.organization.role.RoleDesignTime"
+	typeVersion="0242a425-d150-11e7-e026-4d289331252b"
+	RuntimeDocumentID="000C29C1-42A6-A1ED-B5D8-1D72AF36C1E6">
+	<DocumentID>000C29C1-42A6-A1ED-B5D8-1D72AF3681E6</DocumentID>
+	<Name>Admin</Name>
+	<Description>Admin</Description>
+	<CreatedBy>hbhuva</CreatedBy>
+	<CreationDate>2023-04-10T05:29:29.877</CreationDate>
+	<Notes/>
+	<DistinguishedName>cn=#roleName#, cn=#ISVPName#, #LDAPRoot#</DistinguishedName>
+	<ExposeForReuse>false</ExposeForReuse>
+	<type>Functional</type>
+	<Subroles>
+		<uri
+			id="F8B156B4-FF8F-11E6-EE0D-3C57E07E771A"
+		/>
+	</Subroles>
+	<Superroles/>
+	<configuredTasks/>
+</RoleDesignTime>

@@ -1,0 +1,41 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="000C29C1-42A6-A1ED-B5D5-B059224FC1E6">
+	<DocumentID>000C29C1-42A6-A1ED-B5D5-B059224F81E6</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>bchoudhary</CreatedBy>
+	<CreationDate>2023-04-10T04:47:15.694</CreationDate>
+	<Notes/>
+	<CreateOperation/>
+	<DeleteOperation/>
+	<Entity>
+		<uri
+			id="000C29C1-42A6-A1ED-B47C-4E7842D181E6"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation>
+		<EntityWebServiceReadOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceReadOperation"
+			RuntimeDocumentID="000C29C1-42A6-A1ED-B5D5-B059224F01E6">
+			<DocumentID>000C29C1-42A6-A1ED-B5D5-B059224EC1E6</DocumentID>
+			<Name>ReadRequirments_Entity</Name>
+			<Description>Read Requirments_Entity</Description>
+			<CreatedBy>bchoudhary</CreatedBy>
+			<CreationDate>2023-04-10T04:47:15.694</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="000C29C1-42A6-A1ED-B47C-4E7842D181E6"
+				/>
+			</Entity>
+		</EntityWebServiceReadOperation>
+	</ReadOperation>
+	<RelationshipOperations/>
+	<UpdateOperation/>
+</EntityWebServicesBuildingBlock>

@@ -1,0 +1,63 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="000C29C1-42A6-A1ED-B518-97A93E2681E6">
+	<DocumentID>000C29C1-42A6-A1ED-B518-97A93E2641E6</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>bchoudhary</CreatedBy>
+	<CreationDate>2023-04-06T10:59:48.317</CreationDate>
+	<Notes/>
+	<CreateOperation/>
+	<DeleteOperation/>
+	<Entity>
+		<uri
+			id="000C29C1-42A6-A1ED-B477-7733D2E1C1E6"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation>
+		<EntityWebServiceReadOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceReadOperation"
+			RuntimeDocumentID="000C29C1-42A6-A1ED-B518-97A93E25C1E6">
+			<DocumentID>000C29C1-42A6-A1ED-B519-01AB457B81E6</DocumentID>
+			<Name>ReadRecruiter</Name>
+			<Description>Read Recruiter</Description>
+			<CreatedBy>bchoudhary</CreatedBy>
+			<CreationDate>2023-04-06T10:59:48.317</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="000C29C1-42A6-A1ED-B477-7733D2E1C1E6"
+				/>
+			</Entity>
+		</EntityWebServiceReadOperation>
+	</ReadOperation>
+	<RelationshipOperations>
+		<EntityWebServiceRelationshipOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceRelationshipOperation"
+			RuntimeDocumentID="000C29C1-42A6-A1ED-B8D3-8CF1E46A81E7">
+			<DocumentID>000C29C1-42A6-A1ED-B8D3-8CF1E46A41E7</DocumentID>
+			<Name>GetChildrenRecruiter_SalaryDivision_Child</Name>
+			<Description>Untitled Entity Web Service Relationship Operation</Description>
+			<CreatedBy>hbhuva</CreatedBy>
+			<CreationDate>2023-04-25T09:50:47.43</CreationDate>
+			<Notes/>
+			<OperationType>GetChildren</OperationType>
+			<Entity>
+				<uri
+					id="000C29C1-42A6-A1ED-B477-7733D2E1C1E6"
+				/>
+			</Entity>
+			<Relationship>
+				<uri
+					id="000C29C1-42A6-A1ED-B8D3-43C7A4C841E7"
+				/>
+			</Relationship>
+		</EntityWebServiceRelationshipOperation>
+	</RelationshipOperations>
+	<UpdateOperation/>
+</EntityWebServicesBuildingBlock>

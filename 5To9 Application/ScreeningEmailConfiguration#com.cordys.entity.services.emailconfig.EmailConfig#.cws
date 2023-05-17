@@ -1,0 +1,18 @@
+
+<EmailConfig
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.services.emailconfig.EmailConfig"
+	RuntimeDocumentID="000C29C1-42A6-A1ED-B6A8-93E45AF581E6">
+	<DocumentID>000C29C1-42A6-A1ED-B6A8-93E45AF541E6</DocumentID>
+	<Name>ScreeningEmailConfiguration</Name>
+	<Description>ScreeningEmailConfiguration</Description>
+	<CreatedBy>bchoudhary</CreatedBy>
+	<CreationDate>2023-04-14T08:59:53.159</CreationDate>
+	<Notes/>
+	<EmailProfileUserID></EmailProfileUserID>
+	<EnableDefault>false</EnableDefault>
+	<From></From>
+	<FromDisplayName></FromDisplayName>
+	<ReplyTo></ReplyTo>
+	<DisplayName/>
+</EmailConfig>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="000C29C1-42A6-A1ED-B670-B662BD1541E6">
+	<DocumentID>000C29C1-42A6-A1ED-B670-B662BD1501E6</DocumentID>
+	<Name>000C29C1-42A6-A1ED-B670-B662BD1501E6</Name>
+	<Description>Onboarding</Description>
+	<CreatedBy>bchoudhary</CreatedBy>
+	<CreationDate>2023-04-13T06:22:25.411</CreationDate>
+	<Notes/>
+	<Text>Onboarding</Text>
+	<Language>
+		<uri
+			id="000C29C1-42A6-A1ED-B475-D22D41A341E6"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="000C29C1-42A6-A1ED-B670-B662BD1481E6"
+		/>
+	</TextIdentifier>
+</TranslatedText>
